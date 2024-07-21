@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple text-based Tic Tac Toe game implemented in Python. Designed this project as a beginners to practice basic Python programming concepts.
+A simple text-based Tic Tac Toe game implemented in Python. Designed this project as a beginner to practice basic Python programming concepts.
 
 ## Features
 
